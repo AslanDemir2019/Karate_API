@@ -1,0 +1,7 @@
+{
+  "page": "#number",
+  "per_page": "#number",
+  "next_page": "#boolean",
+  "total_items": "#number",
+  "data": "#[] karate.read('classpath:resources/clients/clients_data_schema.json')"
+}

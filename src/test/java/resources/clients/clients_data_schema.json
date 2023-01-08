@@ -1,0 +1,8 @@
+{
+  "id": "#string",
+  "name": "#string",
+  "client_type": "#string",
+  "client_status": "#string",
+  "created_at": "#string",
+  "updated_at": "#string"
+}
